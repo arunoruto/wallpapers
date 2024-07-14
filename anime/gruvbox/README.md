@@ -1,0 +1,5 @@
+- [gruvbox-wallpapers.pages.dev](https://gruvbox-wallpapers.pages.dev/):
+    - boonies
+    - skull
+    - skull2
+- [plane](ttps://www.reddit.com/r/ImageGoNord/comments/rleiws/gruvbox_anime_girl_3840x2160_with_imagegonord/)
