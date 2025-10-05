@@ -1,0 +1,2 @@
+- [solarized city](https://www.reddit.com/r/wallpaper/comments/t1bhh7/the_solarized_dark_version_of_another_wallpaper/)
+- [gruvbox city](https://gruvbox-wallpapers.pages.dev/wallpapers/anime/sushi.jpg)
